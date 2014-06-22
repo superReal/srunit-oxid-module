@@ -1,0 +1,20 @@
+{
+    "name": "superreal/srunit-oxid-module",
+    "description": "OXID-Module containing environment for writing unit tests for OXID modules.",
+    "tags": "OXID, testing, unit-test, mock",
+    "license": "GPL-3.0+",
+    "type": "oxid-module",
+    "authors": [
+        {
+            "name": "Thomas Oppelt",
+            "email": "t.oppelt@superreal.de",
+            "role": "developer"
+        },
+        {
+            "name": "Jens Wiese",
+            "email": "j.wiese@superreal.de",
+            "role": "developer"
+        }
+    ]
+    "minimum-stability": "dev"
+}

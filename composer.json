@@ -4,6 +4,10 @@
     "tags": "OXID, testing, unit-test, mock",
     "license": "GPL-3.0+",
     "type": "oxid-module",
+    "require": {
+        "php": ">=5.3.3",
+        "composer/installers": "~1.0"
+    },
     "authors": [
         {
             "name": "Thomas Oppelt",
